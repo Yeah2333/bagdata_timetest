@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cc06a7f1-7198-4ed4-a74b-e5c60421e6b4" name="rosdocker_2080ti">
+        <fileTransfer rootFolder="/home/wzy" accessType="SFTP" host="10.24.82.34" port="40081" sshConfigId="d2e40e96-a746-4136-9122-5bc3feb73715" sshConfig="rosdocker">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
